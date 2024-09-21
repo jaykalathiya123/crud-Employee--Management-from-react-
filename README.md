@@ -55,3 +55,11 @@ npm run dev
 - View Employee: See a list of all employees on the home page.
 - Update Employee: Click the "Edit" button next to an employee’s details to modify the information.
 - Delete Employee: Click the "Delete" button to remove an employee.
+
+6 . CreatData :
+(https://github.com/user-attachments/assets/31b83754-c1ff-4a9e-b97c-cac652205c67)
+
+7 . ViewData
+(https://github.com/user-attachments/assets/8c39f014-8954-41bc-b804-4d701665ab92) ;
+
+
