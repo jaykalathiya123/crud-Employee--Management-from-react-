@@ -31,21 +31,23 @@ The Employee Management System is a web application that allows users to manage 
 ### Installation
 
  1 . Clone the repository:
-   bash
+   ```bash
 https://github.com/ankurchangani/EmployeeCrud.git
-
-2 . Navigate to the project directory :
-bash
+```
+2 . Navigate into the project directory :
+ ```bash
 cd react-crud-from-aemploy
+```
 
-3 . Install dependencies : 
-bash
+3 . Install the required dependencies :
+ ```bash
 npm install
+```
 
-
-4. Start the development server:
-bash
+4 . Start the development server:
+```bash
 npm run dev
+```
 
 
 5 . *How to Use*
