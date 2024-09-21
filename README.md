@@ -56,8 +56,8 @@ npm run dev
 - Update Employee: Click the "Edit" button next to an employee’s details to modify the information.
 - Delete Employee: Click the "Delete" button to remove an employee.
 
-6 . CreatData :
 ![CreateData](https://github.com/user-attachments/assets/c4e57eaf-f4d3-45e5-84e1-aeab4a2b96fb)
+6 . CreatData :
 
 
 7 . ViewData
