@@ -57,10 +57,10 @@ npm run dev
 - Delete Employee: Click the "Delete" button to remove an employee.
 
 ![CreateData](https://github.com/user-attachments/assets/c4e57eaf-f4d3-45e5-84e1-aeab4a2b96fb)
-6 . CreatData :
 
 
-7 . ViewData
+![ViewData](https://github.com/user-attachments/assets/0854f737-47c7-4fdd-adfc-8797e05fbb0f)
+
 
 
 
