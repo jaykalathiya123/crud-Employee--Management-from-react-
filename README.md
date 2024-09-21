@@ -1,37 +1,55 @@
 # Employee Management System (CRUD)
 
 ## Project Overview
-The Employee Management System is a web application that allows users to manage employee details. It includes features like creating, reading, updating, and deleting employee information. This system is built using **React** for the frontend and **localStorage** to store the employee data locally, ensuring persistence even after a page refresh.
+The Employee Management System is a web application that allows users to manage employee details. It includes features like creating, reading, updating, and deleting (CRUD) employee information. This system uses *React* for the frontend and *localStorage* to store the employee data locally.
 
 ## Project Objectives
-- Implement a CRUD (Create, Read, Update, Delete) system for managing employee data.
-- Use React's state management to handle and display employee information.
-- Store data using localStorage to ensure persistence across sessions.
-- Provide a user-friendly interface for interacting with employee records.
+- Implement a CRUD (Create, Read, Update, Delete) system.
+- Manage employee data using React's state management.
+- Use localStorage to persist data even after refreshing the page.
+- Provide a user-friendly interface for managing employee details.
 
 ## Features
-1. **Add Employee**: A form for adding new employee details, such as name, age, department, and position.
-2. **View Employee List**: Displays a list of all employees stored in localStorage.
-3. **Update Employee**: Edit employee details using an update form.
-4. **Delete Employee**: Remove an employee from the list.
-5. **Persist Data**: Employee data is stored in the browser’s localStorage, allowing it to remain even after a page refresh.
+- *Add Employee*: A form to add new employee details like name, age, department, and position.
+- *View Employee List*: Displays a list of all employees stored in localStorage.
+- *Update Employee*: Allows users to edit employee details using an update form.
+- *Delete Employee*: Removes an employee from the list.
+- *Persist Data*: Employee data is stored in localStorage, ensuring it remains even after a page refresh.
 
 ## Technology Stack
-- **Frontend**: React.js
-- **State Management**: React's `useState` and `useEffect` hooks
-- **Data Storage**: localStorage (in-browser storage)
+- *Frontend*: React.js
+- *State Management*: React's useState and useEffect hooks
+- *Data Storage*: localStorage (in-browser storage)
 
 ## Prerequisites
-- **Node.js** installed
-- Basic knowledge of **React.js**
+- Node.js installed
+- Basic knowledge of React.js
 - Code editor (e.g., Visual Studio Code)
 
-## Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/jaykalathiya123/crud-Employee--Management-from-react-.git
-  ```
-2 . Navigate into the project directory:
-   ```bash
-   cd react-crud-from-aemploy
-   ```
+## Getting Started
+
+### Installation
+
+ 1 . Clone the repository:
+   bash
+https://github.com/ankurchangani/EmployeeCrud.git
+
+2 . Navigate to the project directory :
+bash
+cd react-crud-from-aemploy
+
+3 . Install dependencies : 
+bash
+npm install
+
+
+4. Start the development server:
+bash
+npm run dev
+
+
+5 . *How to Use*
+- Add Employee: Fill out the form and click the "Add Employee" button.
+- View Employee: See a list of all employees on the home page.
+- Update Employee: Click the "Edit" button next to an employee’s details to modify the information.
+- Delete Employee: Click the "Delete" button to remove an employee.
