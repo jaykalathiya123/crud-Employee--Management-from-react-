@@ -32,7 +32,7 @@ The Employee Management System is a web application that allows users to manage 
 
  1 . Clone the repository:
    ```bash
-https://github.com/ankurchangani/EmployeeCrud.git
+[https://github.com/ankurchangani/EmployeeCrud.git](https://github.com/jaykalathiya123/crud-Employee--Management-from-react-.git)
 ```
 2 . Navigate into the project directory :
  ```bash
